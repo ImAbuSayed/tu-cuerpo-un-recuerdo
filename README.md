@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-un-recuerdo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tu cuerpo un recuerdo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-un-recuerdo/) |
+| **Get License** | [License this song: Tu cuerpo un recuerdo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-un-recuerdo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu perfume en el aire, mami, no se va
+> Ese cuerpo es un recuerdo que me pide más
+> Me tienes dando vueltas por toda la ciudad
+> Nena, tú eres la dueña de mi voluntad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
