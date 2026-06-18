@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-un-recuerdo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tu cuerpo un recuerdo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-un-recuerdo/) |
+| **Get License** | [Music Rights & Licensing for Tu cuerpo un recuerdo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-un-recuerdo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1f9542f8dfbbd15519ca1970115937b5c3e36cf825c09d822d8d45194ddb6e51` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
